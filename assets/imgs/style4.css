@@ -1,0 +1,14 @@
+@media screen and (min-width: 500px) {
+.thecont {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+   margin-left: 5px;
+   margin-top: 20px;
+    background-color: #FBF7E3;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+}

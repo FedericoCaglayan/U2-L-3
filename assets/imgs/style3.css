@@ -1,0 +1,22 @@
+.containerss {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #FBF7E3;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+#img3 {
+  width: 35%;
+}
+p {
+    margin-top: 60px;
+}
+h2 {
+    display: block;
+}

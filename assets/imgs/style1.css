@@ -1,0 +1,40 @@
+
+@media screen and (min-width: 700px) {
+#img1 {
+
+  width: 80%;
+ border-top-right-radius: 200px;
+ border-top-left-radius: 200px;
+ 
+    
+}
+.container1 {
+    text-align: center;
+    margin-top: 20px;
+   background-color: #FBF7E3;
+   padding-bottom: 20px;
+
+}
+button {
+ padding: 7px;
+ padding-left: 30px;
+ padding-right: 30px;
+ border-radius: 10px;
+ background-color: #efdd83;
+ border: none;
+ margin-top: 10px;
+ margin-left:37%;
+}
+
+#firstp {
+    float: right;
+    padding-right: 30%;
+    margin-bottom: 30px;
+}
+h3 {
+    padding-top: 20px;
+}
+h3,p{
+    padding-right: 70px;
+}
+}
